@@ -28,6 +28,7 @@ $(call inherit-product, $(LOCAL_PATH)/device.mk)
 # Use GApps
 TARGET_GAPPS_ARCH := arm64
 TARGET_SUPPORTS_GOOGLE_RECORDER := true
+TARGET_INCLUDE_STOCK_ARCORE := true
 
 PRODUCT_BRAND := motorola
 PRODUCT_DEVICE := channel
