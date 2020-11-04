@@ -1,0 +1,8 @@
+[
+ {
+   "repository": "motorola_camera2_denali-2",
+   "target_path": "packages/apps/MotCamera2",
+   "branch" : "eleven-arm64",
+   "remote" : "moto-camera"
+ }
+]
